@@ -1,0 +1,6 @@
+vue cli指令 创建vue cli项目:vue create 项目名
+npm指令 
+下载axios指令:npm install axios
+下载vue指令:npm install vue
+下载element指令:npm i element-ui -S
+
